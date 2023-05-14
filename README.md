@@ -1,6 +1,6 @@
 Click the image below to view the Transcribi demo video on Youtube!
 
-[![Transcribi Demo Video]([https://youtu.be/DXMPq_4dDNk](https://youtu.be/DXMPq_4dDNk))
+[![Transcribi Demo Video](https://youtu.be/DXMPq_4dDNk(https://youtu.be/DXMPq_4dDNk))
 
 # Running Transcribi
 
