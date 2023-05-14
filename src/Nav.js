@@ -1,13 +1,22 @@
-export default function Nav() {
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-    return (
-        <div className="h-12 items-center flex p-4 bg-transparent">
-        
-        <h1 onClick={() => window.location.href = "/"} className="bg-black font-bold text-2xl text-white">
-            Transcribi
-        </h1>
+function TopBar() {
+  return (
+    <>
+      <Navbar fixed="top" bg="dark" className='bg-transparent backdrop-blur-lg' variant="dark">
+        <Container className='flex justify-between font-semibold'>
+          <Navbar.Brand href="#/">Transcribi</Navbar.Brand>
+          <Nav className="mr-0">
+          </Nav>
+          <Nav>
+          </Nav>
+        </Container>
+      </Navbar>
+    </>
+  );
+}
 
-        </div>
-    );
-  }
-  
+export default TopBar;

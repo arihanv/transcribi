@@ -38,8 +38,7 @@ function App() {
               audio into insights
             </h1>
             <p className="text-2xl font-normal leading-tight">
-              Get accurate transcriptions and valuable sentiment, summary, and
-              analysis.
+              Get accurate transcriptions and valuable analysis.
             </p>
             <button
               // onClick={() => (window.location.href = "#/home")}
@@ -50,7 +49,6 @@ function App() {
             </button>
           </div>
           <div className="flex justify-center">
-            {/* <div className="items-center inline-block w-1/2 h-full text-white bg-black border-black rounded-3xl"> */}
             <div className="items-center inline-block h-full homeImg">
               <img src={testgrap} className="max-w-[350px]" alt="Logo" />
             </div>
