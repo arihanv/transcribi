@@ -23,12 +23,6 @@ function GPT(props) {
         props.loaded == false && props.indexed == true ? (<Chat transcript={props.transcript} />) : (<div className="text-center p-3.5 font-semibold flex flex-col justify-center">Generating Transcript and Indexing</div>)
     }
   </Tab>
-  <Tab eventKey="Summary" title="Summary">
-    Tab content for Profile
-  </Tab>
-  <Tab eventKey="Sentiment" title="Sentiment" disabled>
-    Tab content for Contact
-  </Tab>
 </Tabs>
     </div>
   </div>
