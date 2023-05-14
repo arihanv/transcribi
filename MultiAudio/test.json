@@ -1,0 +1,539 @@
+{
+  "chunk": {
+    "start": 10.12,
+    "hard": [[], []],
+    "end": 17.66,
+    "sentence": [
+      [
+        "Reasoning,",
+        " researching",
+        " popular",
+        " topics",
+        " will",
+        " help",
+        " us",
+        " create",
+        " content",
+        " that",
+        " is",
+        " in",
+        " demand",
+        " and",
+        " likely",
+        " to",
+        " be",
+        " viewed."
+      ],
+      [
+        "Using",
+        " Google",
+        " is",
+        " a",
+        " quick",
+        " and",
+        " easy",
+        " way",
+        " to",
+        " find",
+        " recent",
+        " and",
+        " relevant",
+        " information."
+      ]
+    ]
+  },
+  "segment": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.02,
+      "end": 2.1,
+      "text": " And we're sitting back and relaxing.",
+      "tokens": [50364, 400, 321, 434, 3798, 646, 293, 20103, 13, 50494],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " And",
+          "start": 0.02,
+          "end": 0.5,
+          "probability": 0.6076844334602356
+        },
+        {
+          "word": " we're",
+          "start": 0.5,
+          "end": 0.7,
+          "probability": 0.9577097296714783
+        },
+        {
+          "word": " sitting",
+          "start": 0.7,
+          "end": 0.92,
+          "probability": 0.9856502413749695
+        },
+        {
+          "word": " back",
+          "start": 0.92,
+          "end": 1.26,
+          "probability": 0.9958131909370422
+        },
+        {
+          "word": " and",
+          "start": 1.26,
+          "end": 1.58,
+          "probability": 0.9857429265975952
+        },
+        {
+          "word": " relaxing.",
+          "start": 1.58,
+          "end": 2.1,
+          "probability": 0.9861138463020325
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.68,
+      "end": 4.86,
+      "text": " OK, so it has now come back thoughts.",
+      "tokens": [
+        50494, 2264, 11, 370, 309, 575, 586, 808, 646, 4598, 13, 50620
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " OK,",
+          "start": 2.68,
+          "end": 2.86,
+          "probability": 0.609032392501831
+        },
+        {
+          "word": " so",
+          "start": 3.14,
+          "end": 3.22,
+          "probability": 0.9871975183486938
+        },
+        {
+          "word": " it",
+          "start": 3.22,
+          "end": 3.56,
+          "probability": 0.9719988703727722
+        },
+        {
+          "word": " has",
+          "start": 3.56,
+          "end": 3.68,
+          "probability": 0.846297025680542
+        },
+        {
+          "word": " now",
+          "start": 3.68,
+          "end": 3.84,
+          "probability": 0.989866316318512
+        },
+        {
+          "word": " come",
+          "start": 3.84,
+          "end": 4.04,
+          "probability": 0.9982432126998901
+        },
+        {
+          "word": " back",
+          "start": 4.04,
+          "end": 4.32,
+          "probability": 0.9991851449012756
+        },
+        {
+          "word": " thoughts.",
+          "start": 4.32,
+          "end": 4.86,
+          "probability": 0.4688103199005127
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.18,
+      "end": 7.18,
+      "text": " Let's research popular AI-related topics",
+      "tokens": [50620, 961, 311, 2132, 3743, 7318, 12, 12004, 8378, 50732],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " Let's",
+          "start": 5.18,
+          "end": 5.38,
+          "probability": 0.990999162197113
+        },
+        {
+          "word": " research",
+          "start": 5.38,
+          "end": 5.66,
+          "probability": 0.9837626218795776
+        },
+        {
+          "word": " popular",
+          "start": 5.66,
+          "end": 6.14,
+          "probability": 0.9760556817054749
+        },
+        {
+          "word": " AI",
+          "start": 6.14,
+          "end": 6.44,
+          "probability": 0.9616302251815796
+        },
+        {
+          "word": "-related",
+          "start": 6.44,
+          "end": 6.82,
+          "probability": 0.6974320113658905
+        },
+        {
+          "word": " topics",
+          "start": 6.82,
+          "end": 7.18,
+          "probability": 0.9984133243560791
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.18,
+      "end": 9.52,
+      "text": " and trends for our YouTube content using Google.",
+      "tokens": [
+        50732, 293, 13892, 337, 527, 3088, 2701, 1228, 3329, 13, 50870
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " and",
+          "start": 7.18,
+          "end": 7.44,
+          "probability": 0.9772499203681946
+        },
+        {
+          "word": " trends",
+          "start": 7.44,
+          "end": 7.68,
+          "probability": 0.9991740584373474
+        },
+        {
+          "word": " for",
+          "start": 7.68,
+          "end": 7.94,
+          "probability": 0.9984493255615234
+        },
+        {
+          "word": " our",
+          "start": 7.94,
+          "end": 8.04,
+          "probability": 0.9856753945350647
+        },
+        {
+          "word": " YouTube",
+          "start": 8.04,
+          "end": 8.28,
+          "probability": 0.9862192273139954
+        },
+        {
+          "word": " content",
+          "start": 8.28,
+          "end": 8.76,
+          "probability": 0.9965367317199707
+        },
+        {
+          "word": " using",
+          "start": 8.76,
+          "end": 9.1,
+          "probability": 0.9746899008750916
+        },
+        {
+          "word": " Google.",
+          "start": 9.1,
+          "end": 9.52,
+          "probability": 0.9955103397369385
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.12,
+      "end": 11.64,
+      "text": " Reasoning, researching popular topics",
+      "tokens": [50870, 39693, 278, 11, 24176, 3743, 8378, 50952],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " Reasoning,",
+          "start": 10.12,
+          "end": 10.58,
+          "probability": 0.7914291620254517
+        },
+        {
+          "word": " researching",
+          "start": 10.66,
+          "end": 10.94,
+          "probability": 0.9638729095458984
+        },
+        {
+          "word": " popular",
+          "start": 10.94,
+          "end": 11.28,
+          "probability": 0.9798436164855957
+        },
+        {
+          "word": " topics",
+          "start": 11.28,
+          "end": 11.64,
+          "probability": 0.9987826943397522
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 11.64,
+      "end": 13.5,
+      "text": " will help us create content that is in demand and likely",
+      "tokens": [
+        50952, 486, 854, 505, 1884, 2701, 300, 307, 294, 4733, 293, 3700, 51044
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " will",
+          "start": 11.64,
+          "end": 11.82,
+          "probability": 0.9884327054023743
+        },
+        {
+          "word": " help",
+          "start": 11.82,
+          "end": 11.94,
+          "probability": 0.998379111289978
+        },
+        {
+          "word": " us",
+          "start": 11.94,
+          "end": 12.04,
+          "probability": 0.9984912872314453
+        },
+        {
+          "word": " create",
+          "start": 12.04,
+          "end": 12.18,
+          "probability": 0.9980159997940063
+        },
+        {
+          "word": " content",
+          "start": 12.18,
+          "end": 12.52,
+          "probability": 0.9972596168518066
+        },
+        {
+          "word": " that",
+          "start": 12.52,
+          "end": 12.66,
+          "probability": 0.9967384934425354
+        },
+        {
+          "word": " is",
+          "start": 12.66,
+          "end": 12.8,
+          "probability": 0.9971116781234741
+        },
+        {
+          "word": " in",
+          "start": 12.8,
+          "end": 12.96,
+          "probability": 0.9606174230575562
+        },
+        {
+          "word": " demand",
+          "start": 12.96,
+          "end": 13.16,
+          "probability": 0.9113278388977051
+        },
+        {
+          "word": " and",
+          "start": 13.16,
+          "end": 13.32,
+          "probability": 0.9461630582809448
+        },
+        {
+          "word": " likely",
+          "start": 13.32,
+          "end": 13.5,
+          "probability": 0.9942597150802612
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 13.5,
+      "end": 14.02,
+      "text": " to be viewed.",
+      "tokens": [51044, 281, 312, 19174, 13, 51088],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " to",
+          "start": 13.5,
+          "end": 13.66,
+          "probability": 0.9973341226577759
+        },
+        {
+          "word": " be",
+          "start": 13.66,
+          "end": 13.78,
+          "probability": 0.9993317723274231
+        },
+        {
+          "word": " viewed.",
+          "start": 13.78,
+          "end": 14.02,
+          "probability": 0.9984855055809021
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 14.5,
+      "end": 15.8,
+      "text": " Using Google is a quick and easy way",
+      "tokens": [51088, 11142, 3329, 307, 257, 1702, 293, 1858, 636, 51158],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " Using",
+          "start": 14.5,
+          "end": 14.66,
+          "probability": 0.9768442511558533
+        },
+        {
+          "word": " Google",
+          "start": 14.66,
+          "end": 14.94,
+          "probability": 0.9970259070396423
+        },
+        {
+          "word": " is",
+          "start": 14.94,
+          "end": 15.12,
+          "probability": 0.9690374135971069
+        },
+        {
+          "word": " a",
+          "start": 15.12,
+          "end": 15.2,
+          "probability": 0.9957262277603149
+        },
+        {
+          "word": " quick",
+          "start": 15.2,
+          "end": 15.32,
+          "probability": 0.9932113885879517
+        },
+        {
+          "word": " and",
+          "start": 15.32,
+          "end": 15.48,
+          "probability": 0.983741044998169
+        },
+        {
+          "word": " easy",
+          "start": 15.48,
+          "end": 15.66,
+          "probability": 0.9994366765022278
+        },
+        {
+          "word": " way",
+          "start": 15.66,
+          "end": 15.8,
+          "probability": 0.9994755387306213
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 15.8,
+      "end": 17.66,
+      "text": " to find recent and relevant information.",
+      "tokens": [51158, 281, 915, 5162, 293, 7340, 1589, 13, 51312],
+      "temperature": 0.0,
+      "avg_logprob": -0.21235650380452473,
+      "compression_ratio": 1.5530973451327434,
+      "no_speech_prob": 0.024228781461715698,
+      "words": [
+        {
+          "word": " to",
+          "start": 15.8,
+          "end": 15.9,
+          "probability": 0.9989629983901978
+        },
+        {
+          "word": " find",
+          "start": 15.9,
+          "end": 16.14,
+          "probability": 0.9988654851913452
+        },
+        {
+          "word": " recent",
+          "start": 16.14,
+          "end": 16.54,
+          "probability": 0.9954692125320435
+        },
+        {
+          "word": " and",
+          "start": 16.54,
+          "end": 16.72,
+          "probability": 0.9393435120582581
+        },
+        {
+          "word": " relevant",
+          "start": 16.72,
+          "end": 16.96,
+          "probability": 0.9989619255065918
+        },
+        {
+          "word": " information.",
+          "start": 16.96,
+          "end": 17.66,
+          "probability": 0.9995002746582031
+        }
+      ]
+    }
+  ]
+}
