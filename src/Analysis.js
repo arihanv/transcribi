@@ -5,7 +5,7 @@ import GPT from "./GPT";
 
 function Analysis(props) {
   const [messages, setMessages] = useState([]);
-  const [loading, setLoading] = useState(null);
+  const [loading, setLoading] = useState(true);
   const [script, setScript] = useState(null);
   const [indexed, setIndexed] = useState(false);
   useEffect(() => {
