@@ -13,9 +13,5 @@ npm start
 Run Python server using the following command:
 ``` 
 cd MultiAudio
-```
-First install dependencies
-
-```
 python serv2.py
 ```
